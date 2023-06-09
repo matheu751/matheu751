@@ -1,7 +1,7 @@
 ## Hey there, welcome to my profile 🐱‍🐉
 
 ### About me
-- **I'm 20 years old and I'm a beginner in the field of Web Front-end Development.**
+- **I'm 20 years old and I'm a beginner in the field of Front-end Web Development.**
 - **Computer Technician by IFAM - Instituto Federal Educação, Ciência e Tecnologia do Amazonas.**
 - **I'm studying for a degree in Computer Networks at Anhanguera.**
   
