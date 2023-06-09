@@ -1,4 +1,4 @@
-## Hi there, welcome to my profile 🐱‍🐉
+## Hey there, welcome to my profile 🐱‍🐉
 
 ### About me
 - **I'm 20 years old and I'm a beginner in the field of Front-end Development.**
