@@ -1,7 +1,7 @@
 ## Hey there, welcome to my profile 🐱‍🐉
 
 ### About me
-- **I'm 20 years old and I'm a beginner in the field of Front-end Web Development.**
+- **I'm 20 years old and a beginner Front-end Web Developer.**
 - **Computer Technician by IFAM - Instituto Federal Educação, Ciência e Tecnologia do Amazonas.**
 - **I'm studying for a degree in Computer Networks at Anhanguera.**
   
@@ -14,6 +14,12 @@
   <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
+
+<h3> My personal projects </h3>
+
+| Projects | Description |
+| --- | --- |
+| [Pokedex](https://matheu751.github.io/POKEDEX/) | Created with HTML, CSS and JavaScript |
 
 </br>
 
