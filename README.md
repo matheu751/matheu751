@@ -20,6 +20,7 @@
 | Projects | Description |
 | --- | --- |
 | [Pokedex](https://matheu751.github.io/POKEDEX/) | Created with HTML, CSS and JavaScript |
+| [Calculator](https://matheu751.github.io/Calculator/) | Created with HTML, CSS and JavaScript |
 
 </br>
 
