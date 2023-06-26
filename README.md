@@ -4,6 +4,7 @@
 - **I'm 20 years old and a beginner Front-end Web Developer.**
 - **Computer Technician by IFAM - Instituto Federal Educação, Ciência e Tecnologia do Amazonas.**
 - **I'm studying for a degree in Computer Networks at Anhanguera.**
+- **Currently studying React.**
   
 <h3> Programming Languages and Technologies </h3>
 <p align="left">
