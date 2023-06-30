@@ -21,6 +21,7 @@
 | Projects | Description |
 | --- | --- |
 | [Pokedex](https://matheu751.github.io/POKEDEX/) | Created with HTML, CSS and JavaScript |
+| [To-Do List](https://github.com/matheu751/to_do_list) | CRUD created with React |
 | [Calculator](https://matheu751.github.io/Calculator/) | Created with HTML, CSS and JavaScript |
 
 </br>
